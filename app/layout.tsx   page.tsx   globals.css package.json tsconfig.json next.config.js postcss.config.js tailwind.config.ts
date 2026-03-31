@@ -1,0 +1,9 @@
+app/
+  layout.tsx
+  page.tsx
+  globals.css
+package.json
+tsconfig.json
+next.config.js
+postcss.config.js
+tailwind.config.ts
