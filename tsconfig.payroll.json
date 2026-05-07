@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "strict": true,
+    "outDir": ".tmp-test",
+    "skipLibCheck": true
+  },
+  "include": [
+    "types/**/*.ts",
+    "payroll-engine/**/*.ts",
+    "db/**/*.ts",
+    "tests/**/*.ts"
+  ]
+}
